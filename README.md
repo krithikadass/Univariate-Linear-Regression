@@ -35,8 +35,6 @@ y_pred=slope*X+c
 pyplot.scatter(X,Y,color="pink")
 pyplot.plot(X,y_pred,color="blue")
 pyplot.show()
-
-
 ```
 ## Output
 
